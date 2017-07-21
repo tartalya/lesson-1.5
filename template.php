@@ -21,7 +21,7 @@
                 <td>Адресс</td>
                 <td>Телефон</td>
 
-                <?php foreach ($data as $value): ?>
+                <?php foreach ($sorted as $value): ?>
 
                 <tr>
 
